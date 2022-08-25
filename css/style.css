@@ -65,6 +65,7 @@
 .body_card_front h1 {
   font-family: 'Dancing Script', cursive;
   text-shadow: 2px 2px 5px #9b8ef2;
+  font-size: 3rem;
 }
 
 /* Dorso */
